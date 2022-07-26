@@ -1,0 +1,40 @@
+2022-07-25 18:12:17.347 -05:00 [INF] [ThreadId:1] NBomber '2.1.5' Started a new session: '2022-07-25_23.12.15_session_5a197dc2'.
+2022-07-25 18:12:17.479 -05:00 [INF] [ThreadId:1] NBomber started as single node.
+2022-07-25 18:12:17.567 -05:00 [INF] [ThreadId:9] Plugins: no plugins were loaded.
+2022-07-25 18:12:17.567 -05:00 [INF] [ThreadId:9] Reporting sinks: no reporting sinks were loaded.
+2022-07-25 18:12:17.568 -05:00 [INF] [ThreadId:9] Starting init...
+2022-07-25 18:12:17.587 -05:00 [INF] [ThreadId:9] Target scenarios: 'Call Account Creation - 1'.
+2022-07-25 18:12:17.604 -05:00 [INF] [ThreadId:9] Init finished.
+2022-07-25 18:12:17.612 -05:00 [INF] [ThreadId:5] Starting warm up...
+2022-07-25 18:12:39.034 -05:00 [FTL] [ThreadId:12] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.034 -05:00 [FTL] [ThreadId:8] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.034 -05:00 [FTL] [ThreadId:9] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.034 -05:00 [FTL] [ThreadId:19] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.094 -05:00 [FTL] [ThreadId:20] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.110 -05:00 [FTL] [ThreadId:19] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.110 -05:00 [FTL] [ThreadId:15] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:39.110 -05:00 [FTL] [ThreadId:12] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:12:48.745 -05:00 [INF] [ThreadId:18] Starting bombing...
+2022-07-25 18:13:09.770 -05:00 [FTL] [ThreadId:55] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.770 -05:00 [FTL] [ThreadId:9] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.770 -05:00 [FTL] [ThreadId:52] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.770 -05:00 [FTL] [ThreadId:33] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.785 -05:00 [FTL] [ThreadId:10] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.785 -05:00 [FTL] [ThreadId:55] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.785 -05:00 [FTL] [ThreadId:52] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.785 -05:00 [FTL] [ThreadId:7] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.785 -05:00 [FTL] [ThreadId:33] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:55] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:33] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:45] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:51] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:54] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.801 -05:00 [FTL] [ThreadId:52] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.815 -05:00 [FTL] [ThreadId:17] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.815 -05:00 [FTL] [ThreadId:16] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:09.815 -05:00 [FTL] [ThreadId:19] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:13.527 -05:00 [FTL] [ThreadId:10] Step 'Account Creation HttpRequest' from scenario 'Call Account Creation - 1' has failed. Error: step timeout
+2022-07-25 18:13:20.763 -05:00 [INF] [ThreadId:10] Stopping scenarios...
+2022-07-25 18:13:20.769 -05:00 [INF] [ThreadId:10] Calculating final statistics...
+2022-07-25 18:13:21.089 -05:00 [WRN] [ThreadId:58] Test finished with errors, please check the log file.
+2022-07-25 18:13:21.090 -05:00 [INF] [ThreadId:58] Reports saved in folder: 'C:\Users\oscarv\github\TestHttp\bin\Debug\net6.0\reports\2022-07-25_23.12.15_session_5a197dc2'

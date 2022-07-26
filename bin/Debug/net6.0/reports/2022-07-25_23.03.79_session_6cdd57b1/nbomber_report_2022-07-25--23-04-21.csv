@@ -1,0 +1,2 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,Call Account Creation - 1,00:00:30,Account Creation HttpRequest,302,302,0,10.1,164.16,488.64,1495.76,484.35,577.54,904.19,1140.73,210.6,0,0,0,0
